@@ -1,5 +1,5 @@
 def fit(model,data, label):
-    pass
+    return label
 
 def predict(model, test_data):
     pass
